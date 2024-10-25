@@ -23,14 +23,7 @@
 
 
 
-
-
-
-
-
-
-
-# No toques nada de aquí para abajo, puedes dañarlo
+# No tocar nada de aquí para abajo, pueden dañarlo
 import requests,os,base64,glob,time
 if os.path.exists("servidor.py"):
 	os.remove("servidor.py")
